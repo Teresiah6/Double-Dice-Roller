@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Double dice roller</string>
+    <string name="roll_label">ROLL</string>
+    <string name="clear">Clear</string>
+</resources>
